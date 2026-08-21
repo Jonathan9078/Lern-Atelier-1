@@ -1,5 +1,5 @@
 # Lern-Atelier-1
-## 1. Tag 21.08.2026
+## 1. Tag, 21.08.2026
 ### Ziele
 1. als erstes will ich Mission 4 Fertig machen.
 2. Ich will die If, else if und else noch mehr verstehen.
