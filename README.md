@@ -28,3 +28,9 @@
 1. Ich will in der Godot Engine einen enemy angreifen können
 2. Ich will das der enemy auch sterben kann
 3. ich will meinen Spieler Leben geben
+
+## 6. Tag, 25.09.2026
+### Ziele
+1. Ich will an meine Freifach C++ weiter arbeiten
+2. Ich will im Modul 319 noch fertig werden oder bis 10 kommen
+3. Wenn noch zeit übrigbleibt dann schaffe ich am 431 Modul weiter
